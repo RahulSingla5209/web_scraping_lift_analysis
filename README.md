@@ -1,6 +1,6 @@
 # Unstructured Analysis of Edmonds.com
 
-Scrape data from Edmonds.com and come up with insights for car reatiler on how they should position different car brands.
+Scrape data from Edmonds.com and come up with insights for car retailer on how they should position different car brands.
 
 ![image](https://user-images.githubusercontent.com/12545194/143522455-25bac7d0-eb96-4baa-af2a-9ffbe9ac1e46.png)
 
