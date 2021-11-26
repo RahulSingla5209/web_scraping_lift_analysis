@@ -10,3 +10,9 @@
   * Similarity graph using MDS (converted similarity scores to dissimmiarity scores)
   * Insights - Japanese brands have closer association compared to German Brands (Check nb for more details)
   * Attributes and their co-mentions with car brands
+
+## MDS Graph
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/12545194/143520984-0a8dfdeb-4fab-4664-83a6-9d51bf935b4c.png">
+
+## Most Aspirational brand - Lift with words like Aspiration
+<img width="312" alt="image" src="https://user-images.githubusercontent.com/12545194/143521048-bb324f04-0694-4f18-94e2-61e18e84a3a5.png">
