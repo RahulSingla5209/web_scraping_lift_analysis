@@ -1,5 +1,9 @@
 # Unstructured Analysis of Edmonds.com
 
+Scrape data from Edmonds.com and come up with insights for car reatiler on how they should position different car brands.
+
+![image](https://user-images.githubusercontent.com/12545194/143522455-25bac7d0-eb96-4baa-af2a-9ffbe9ac1e46.png)
+
 * [Scrapper](https://github.com/RahulSingla5209/web_scraping_lift_analysis/blob/main/web_scapper.ipynb)- Major steps done:
   * Used Selenium for scrapping Edmonds.com  
 * [Lift Calculations](https://github.com/RahulSingla5209/web_scraping_lift_analysis/blob/main/lift_calculations.ipynb)- Major steps done:
